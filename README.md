@@ -1,4 +1,5 @@
 # Game: Tic-tac-toe
+[Play here](https://heronoa.github.io/tic-tac-toe/)
 ### Features:
 * Environment controls for the changes in the game;
 * DOM Manipulation;
